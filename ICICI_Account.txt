@@ -1,5 +1,5 @@
 Kontoart: HiZins Tagesgeldkonto
-Kontonummer: XXXXXXX
+eeeKontonummer: XXXXXXX
 JetztHieasdfkjwerxxhdretwasDazu
 NurderZweite
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
